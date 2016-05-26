@@ -247,8 +247,8 @@ p.copyright {
     background-color: #fff;
     text-align: center;
 }
-#gallery .intro-divider {
-
+#gallery  {
+    padding-top: 50px;
 }
 #technologies img {
     height: 350px;
@@ -275,11 +275,11 @@ p.copyright {
 }
 
 #cartable tr:nth-child(odd)	{
-  background-color: #C0C0C0;
+  background-color: #C0C0C0 !important;
    
 }
 #cartable tr:nth-child(even) {
-  background-color: #ffffff;
+  background-color: #ffffff !important;
  
 }
 
